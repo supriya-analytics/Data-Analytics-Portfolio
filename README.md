@@ -13,8 +13,8 @@ I enjoy working with data to identify trends, create dashboards, and support bus
 
 ## 📂 Projects
 1. Sales Performance Analysis (Excel)
-2. Airline Operations Dashboard (Excel / Power BI)
-3. Customer & Product Analysis (SQL)
-4. Business Insights Dashboard (Power BI)
+2. Airline Operations Dashboard (Excel)
+3. Book store Analysis (SQL)
+4. Sales performance and profitability dashboard (Power BI)
 
 📌 This repository will be updated regularly with new projects.
